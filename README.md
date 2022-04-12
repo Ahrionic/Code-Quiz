@@ -37,6 +37,6 @@
 
   ***
   ## Additional Info
-  - Deployed App: 
+  - Deployed App: https://ahrionic.github.io/Code-Quiz/
   - Github: Ahrionic (https://github.com/Ahrionic)
   - Email: KoreyLuu@gmail.com
